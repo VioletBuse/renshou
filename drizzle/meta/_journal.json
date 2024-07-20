@@ -8,6 +8,13 @@
       "when": 1721417041186,
       "tag": "0000_freezing_dormammu",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1721505422647,
+      "tag": "0001_open_serpent_society",
+      "breakpoints": true
     }
   ]
 }
